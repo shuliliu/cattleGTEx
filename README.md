@@ -21,7 +21,7 @@ Includes the estimates of effect size (aFC) of requlatory variants using aggrega
 ## SNP_calling_imputation
 Includes the SNP calling from RNA-seq and imputation using [Beagle 5](https://faculty.washington.edu/browning/beagle/beagle.html).
 
-## cis-eQTL_detection
+## *cis*-eQTL_detection
 Includes the eQTL detection using [fastQTL](https://github.com/francois-a/fastqtl), effect size calculation using [aFC](https://github.com/secastel/aFC) and finemapping analysis using [DAP-G](https://github.com/xqwen/dap)
 
 ## *Trans*-eQTL_detection
