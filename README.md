@@ -24,6 +24,9 @@ Includes the SNP calling from RNA-seq and imputation using [Beagle 5](https://fa
 ## *cis*-eQTL_detection
 Includes the eQTL detection using [fastQTL](https://github.com/francois-a/fastqtl), effect size calculation using [aFC](https://github.com/secastel/aFC) and finemapping analysis using [DAP-G](https://github.com/xqwen/dap)
 
+## *cis*-sQTL_detection
+Includes the eQTL detection using [fastQTL](https://github.com/francois-a/fastqtl).
+
 ## *Trans*-eQTL_detection
 Includes the *trans*-eQTL detection by a mixed linear model using mlma from [GCTA](https://yanglab.westlake.edu.cn/software/gcta/#Overview) with and without cis-eQTL adjustments.
 
