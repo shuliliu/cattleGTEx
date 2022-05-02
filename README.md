@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/484289386.svg)](https://zenodo.org/badge/latestdoi/484289386)
+
 Cattle GTEx (v1) 
 =================
 # 1. Introduction
