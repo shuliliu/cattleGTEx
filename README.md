@@ -39,10 +39,13 @@ Includes the TWAS analysis using S-PrediXcan and MultiXcan from [MetaXcan](https
 Includes the HiC data processes using [HiC-Pro(v2.11.4)](https://github.com/nservant/HiC-Pro) and estimates of significant intra-chromosome contacts using [FitHiC(v2.0.7)](https://github.com/ay-lab/fithic).
 
 ## Data available
-Gene expression data and cis-eQTLs/sQTLs has been uploaded to:
+Gene expression data and cis-eQTLs/sQTLs have been uploaded to:
 https://figshare.com/articles/dataset/CattleGTEx-Gene_expression_data/21564780
+
 https://figshare.com/articles/dataset/cis-eQTLs_for_24_tissues/22262575
+
 and
+
 https://cgtex.roslin.ed.ac.uk/  
 
 
